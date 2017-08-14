@@ -92,6 +92,7 @@ function deleteSaleChance() {
 	    }    
 	});
 }
+
 // 重置
 function resetValue(){
 	$("#fm").form("reset");

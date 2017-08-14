@@ -2,3 +2,5 @@
 .git/
 .settings/
 .project
+.idea/
+shsxt_crm.iml
